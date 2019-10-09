@@ -48,3 +48,9 @@ Hacktoberfest Classroom Project 2019
 [outoftune2000](https://github.com/outoftune2000/)
 >Life's a loop , lol
 ---
+
+### C Vinay Sankar
+[vinaysankar30](https://github.com/vinaysankar30/)
+>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”
+― John Woods
+--- 
